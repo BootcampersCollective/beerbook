@@ -18,7 +18,7 @@ const authLink = setContext(async (req, { headers }) => {
 });
 
 const httpLink = new HttpLink({
-  uri: "https://api.graph.cool/simple/v1/cjckpsddm477j0187nf9v89oi"
+  uri: "https://api.graph.cool/simple/v1/cjgr93mby1k870162a3c36e56"
 });
 
 const link = authLink.concat(httpLink);

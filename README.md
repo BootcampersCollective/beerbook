@@ -1,3 +1,8 @@
+
+Ok, to get this bad boy running download expo first. If you are on mac use the ios simulator for iphone or android studio or genymotion for android phone. If you want to use android you need to downgrade the apollo client to 2.2.7 ("https://github.com/apollographql/apollo-client/issues/3236").
+
+This app was created with create-react-native-app and is used to make a list of breweries you have visited and what you drank.
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).

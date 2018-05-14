@@ -35,6 +35,6 @@ const signinUser = gql`
       token
     }
   }
-`;
+`; 
 
 export default graphql(signinUser, { name: "signinUser" })(LoginUser);
